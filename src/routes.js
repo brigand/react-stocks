@@ -4,5 +4,5 @@ import { Route } from 'react-router';
 import App from './pages/App/App';
 
 export default (
-  <Route path="/" component={App} />
+  <Route path="/react-stocks/" component={App} />
 );
